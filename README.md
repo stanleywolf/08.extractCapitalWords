@@ -1,0 +1,2 @@
+# 08.extractCapitalWords
+JSexercise
